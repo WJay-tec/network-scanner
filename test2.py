@@ -83,7 +83,7 @@ def syn(port,userran1,userran2,choice): # normal SYN scan
             port += 1
     for y in checkPort:
         print("These are the up and running ports"+" "+y)
-
+#testing git
 
 if userChoice3 == 1:
     icmp(userchoice, userchoice2,userChoice3)
